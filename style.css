@@ -40,6 +40,12 @@ ul{
     display: flex;
     flex-direction: column;
 }
+.fav_singer img{
+    width: 100%;
+    max-width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
 .fav_singer span{
     display: block;
     padding-top: 20px;
